@@ -34,6 +34,8 @@ This project applies **RFM (Recency, Frequency, Monetary) analysis** to an e-com
 - **Customer Segmentation**: Distribution of customer groups.
 - **Dashboard**: Interactive representation of key insights.
 
+## 📡 Presentation
+You can view the project presentation [here](https://docs.google.com/presentation/d/1arzQM6laZkMrgpH-SlHPTw-W7XPREIyX7IpMVmCO_As/edit?usp=sharing).
 
 ## 📌 Key Insights
 - A small percentage of customers contribute to the majority of sales (Pareto 80/20 Rule).
