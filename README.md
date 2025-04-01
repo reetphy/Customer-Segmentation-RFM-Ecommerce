@@ -34,23 +34,6 @@ This project applies **RFM (Recency, Frequency, Monetary) analysis** to an e-com
 - **Customer Segmentation**: Distribution of customer groups.
 - **Dashboard**: Interactive representation of key insights.
 
-## 🚀 Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-segmentation-rfm.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis script:
-   ```bash
-   python rfm_analysis.py
-   ```
-4. Open the dashboard (if applicable):
-   ```bash
-   streamlit run dashboard.py
-   ```
 
 ## 📌 Key Insights
 - A small percentage of customers contribute to the majority of sales (Pareto 80/20 Rule).
