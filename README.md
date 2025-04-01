@@ -3,6 +3,13 @@
 ## 📌 Project Overview
 This project applies **RFM (Recency, Frequency, Monetary) analysis** to an e-commerce dataset to segment customers based on their purchasing behavior. The goal is to identify **high-value customers, at-risk segments, and optimize marketing strategies** using data-driven insights.
 
+## 🛠️ Tools & Technologies Used
+- **Python** 🐍 (Data analysis, RFM calculations)
+- **Jupyter Notebook** 📓 (Exploratory analysis, data processing)
+- **Pandas, Matplotlib, Seaborn** 📊 (Data manipulation & visualization)
+- **Power BI** 📈 (Dashboard creation & insights visualization)
+- **Git & GitHub** 🗂️ (Version control, repository management)
+
 ## 📂 Dataset 
 ### Source
 - The dataset is sourced from **[UC Irvine ML Repository's Online Retail Dataset](http://archive.ics.uci.edu/dataset/352/online+retail)**.  
